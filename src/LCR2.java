@@ -3,7 +3,7 @@
  * @CreateTime: 2025-07-24
  * @Description: 两数相加
  */
-public class LRC2 {
+public class LCR2 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         return  recur(l1, l2, 0);
     }
